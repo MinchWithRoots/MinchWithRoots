@@ -12,7 +12,7 @@
 ### About me
 - 🌱 I’m currently learning **Web-Development**
 - :computer: Check out my [Portfolio](https://dev-gwyarmoss.pantheonsite.io/)
-- 📄 B2 English, years of art school and lots of curiosity
+- 📄 C2 English, years of art school and lots of curiosity
 - :small_blue_diamond: Reach me by [Telegram](https://t.me/GwyarMoss), [email](mailto:gwyarmoss@gmail.com)
 
 ### Languages and tools
