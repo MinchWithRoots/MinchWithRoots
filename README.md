@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <h1>✨Едемская Мария✨</h1>
+  <h1>🌿Едемская Мария🌿</h1>
   <h2>3й курс Петровского колледжа</h2>
   <h3>Frontend Developer</h3>
 </div>
