@@ -11,7 +11,7 @@
 </div>
 
 ### Обо мне
-- 🌱 в данный момент изучаю **Веб разработку, React.js**
+- 🌱 в данный момент изучаю **Веб разработку, React.js, Vue.js**
 - 📄 C2 English
 - :small_blue_diamond: Связаться со мной: [Telegram](https://t.me/wedobones), [email](mailto:we.do.bones@yandex.ru)
 
