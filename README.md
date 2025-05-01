@@ -4,7 +4,7 @@
 </div>
 
 <div id="socials" align="center">
-  <a href="https://t.me/GwyarMoss"> 
+  <a href="@wedobones"> 
    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
 </div>
@@ -13,7 +13,7 @@
 - 🌱 I’m currently learning **Web-Development**
 - :computer: Check out my [Portfolio](https://dev-gwyarmoss.pantheonsite.io/)
 - 📄 C2 English, years of art school and lots of curiosity
-- :small_blue_diamond: Reach me by [Telegram](https://t.me/gwyarmoss), [email](mailto:gwyarmoss@gmail.com)
+- :small_blue_diamond: Reach me by [Telegram](@wedobones), [email](mailto:gwyarmoss@gmail.com)
 
 ### Languages and tools
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="html" width="40" height="40"/>&nbsp;
