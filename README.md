@@ -8,6 +8,9 @@
   <a href="https://t.me/wedobones"> 
    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
+ <a href="https://www.figma.com/@c2e722fd_ad87_4"> 
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+ </a>
 </div>
 
 ### Обо мне
