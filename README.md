@@ -41,7 +41,7 @@ Frontend-разработчица с фокусом на UI/UX, анимации
       </pre>
     </td>
     <td width="35%" align="center">
-      <img src="[https://media.giphy.com/media/SsCYf6DRANLrWIruug/giphy.gif](https://unsplash.com/photos/a-striped-amaryllis-flower-against-a-white-background-ZfySOt986lw)" alt="Coding" width="250"/>
+      <img src="https://github.com/MinchWithRoots/MinchWithRoots/blob/main/Coding.gif" alt="Coding" width="250"/>
     </td>
   </tr>
 </table>
