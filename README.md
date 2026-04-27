@@ -1,7 +1,6 @@
 <div id="header" align="center">
   <h1>🌿Едемская Мария🌿</h1>
-  <h2>4й курс Петровского колледжа</h2>
-  <h3>Frontend Developer</h3>
+  <h2>Frontend Developer</h2>
 </div>
 
 <div id="socials" align="center">
