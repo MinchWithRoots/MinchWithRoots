@@ -25,7 +25,7 @@
 
 <table>
   <tr>
-    <td width="65%">
+    <td width="60%">
       <pre>
 Frontend-разработчица с фокусом на UI/UX, анимации и продуктово-ориентированный подход.
 
@@ -40,7 +40,7 @@ Frontend-разработчица с фокусом на UI/UX, анимации
 💡 Процесс: дизайн → вёрстка → интерактив → оптимизация → деплой
       </pre>
     </td>
-    <td width="35%" align="center">
+    <td width="40%" align="center">
       <img src="https://github.com/MinchWithRoots/MinchWithRoots/blob/main/Coding.gif" alt="Coding" width="200"/>
     </td>
   </tr>
