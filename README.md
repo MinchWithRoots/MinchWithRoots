@@ -8,13 +8,13 @@
 </h3>
 
 <p align="center">
-  <a href="https://t.me/your_username">
+  <a href="https://t.me/wedobones">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
   <a href="https://figma.com/@your_username">
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:we.do.bones@yandex.ru">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
@@ -40,9 +40,9 @@ Frontend-разработчица с фокусом на UI/UX, анимации
 💡 Процесс: дизайн → вёрстка → интерактив → оптимизация → деплой
       </pre>
     </td>
-    <td width="40%" align="center">
-      <img src="https://github.com/MinchWithRoots/MinchWithRoots/blob/main/Coding.gif" alt="Coding" width="200"/>
-    </td>
+   <td width="40%" align="center">
+  <img src="https://raw.githubusercontent.com/MinchWithRoots/MinchWithRoots/main/Coding.gif" alt="Coding" width="200"/>
+</td>
   </tr>
 </table>
 ---
