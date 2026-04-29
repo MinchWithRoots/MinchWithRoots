@@ -4,7 +4,7 @@
 </h1>
 
 <h3 align="center">
-  🌱 Frontend Developer | CSS & Vue.js Enthusiast
+  🌱 Middle Frontend Developer | CSS & Vue.js Enthusiast
 </h3>
 
 <p align="center">
