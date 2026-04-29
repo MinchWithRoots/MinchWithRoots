@@ -41,7 +41,7 @@ Frontend-разработчица с фокусом на UI/UX, анимации
       </pre>
     </td>
    <td width="40%" align="center">
-  <img src="https://raw.githubusercontent.com/MinchWithRoots/MinchWithRoots/main/Coding.gif" alt="Coding" width="200"/>
+  <img src="https://raw.githubusercontent.com/MinchWithRoots/MinchWithRoots/main/Coder.gif" alt="Coding" width="200"/>
 </td>
   </tr>
 </table>
