@@ -21,31 +21,32 @@
 
 ---
 
-## 👩‍💻 Обо мне
+## ⭐ Обо мне
 
 <table>
   <tr>
-    <td width="60%">
-      <pre>
-Frontend-разработчица с фокусом на UI/UX, анимации и продуктово-ориентированный подход.
-
-🔹 Продукт & Дизайн: Создаю современные интерфейсы, решающие реальные задачи пользователей.
-
-🔹 Оптимизация & Код: Пишу чистый и поддерживаемый код, нахожу нестандартные решения.
-
-🔹 Командная работа: Эффективно взаимодействую с дизайнерами и разработчиками.
-
-🔹 Развитие: Постоянно изучаю новые технологии и применяю лучшие практики.
-
-💡 Процесс: дизайн → вёрстка → интерактив → оптимизация → деплой
-      </pre>
-    </td>
+    <td width="65%">
+  <div style="font-family: monospace; font-size: 14px; line-height: 1.6;">
+<img src="./planet.gif" width="30" height="30" style="vertical-align: middle; margin-right: 10px;" />
+Frontend-разработчица из <b>Санкт-Петербурга</b> с фокусом на UI/UX и анимации. 
+    <br> Создаю продукты, которые приносят пользу: 
+    <br>
+    <br> - платформа психологической поддержки <b>«Рядом»</b> (полный цикл: дизайн → Vue 3 + TypeScript → деплой), 
+    <br>
+    <br> - система ведения отчётности с динамическим экспортом в Excel, 
+     <br>
+    <br> - а также серия адаптивных лендингов с акцентом на конверсию и плавные микроанимации. 
+     <br>
+     <br>
+    Люблю оптимизировать производительность, находить элегантные решения и работать в команде над задачами, которые меняют пользовательский опыт к лучшему.  
+    <img src="./planet.gif" width="30" height="30" style="vertical-align: middle; margin-right: 10px;" />
+  </div>
+</td>
    <td width="40%" align="center">
   <img src="https://raw.githubusercontent.com/MinchWithRoots/MinchWithRoots/main/Coder.gif" alt="Coding" width="200"/>
 </td>
   </tr>
 </table>
----
 
 ## 🛠️ Технологии и инструменты
 
@@ -55,6 +56,8 @@ Frontend-разработчица с фокусом на UI/UX, анимации
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" height="28"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" height="28"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" height="28"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" height="28"/>
+  <img src="https://img.shields.io/badge/Yii-40B3D8?style=for-the-badge&logo=yii&logoColor=white" alt="Yii" height="28"/>
 </p>
 
 ### Frameworks & Libraries
@@ -74,6 +77,9 @@ Frontend-разработчица с фокусом на UI/UX, анимации
 ### Database
 <p>
   <img src="https://img.shields.io/badge/SQL-F29111?style=for-the-badge&logo=database&logoColor=white" alt="SQL" height="28"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" height="28"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" height="28"/>
+  <img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white" alt="phpMyAdmin" height="28"/>
 </p>
 
 ### Design & Tools
